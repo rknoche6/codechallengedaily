@@ -50,7 +50,7 @@
   background-color: #282c34;
   color: white;
   padding: 10px;
-  position: relative;
+  position: absolute;
   bottom: 0;
   width: 100%;
 }
